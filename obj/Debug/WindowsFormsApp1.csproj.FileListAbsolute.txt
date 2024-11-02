@@ -1,0 +1,33 @@
+C:\Users\gorem\source\repos\WindowsFormsApp1\bin\Debug\Database3.accdb
+C:\Users\gorem\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gorem\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gorem\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gorem\source\repos\WindowsFormsApp1\bin\Debug\System.Data.OleDb.dll
+C:\Users\gorem\source\repos\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\gorem\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterForm.resources
+E:\лысый маньяк\прога\WindowsFormsApp1\bin\Debug\Database3.accdb
+E:\лысый маньяк\прога\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\лысый маньяк\прога\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\лысый маньяк\прога\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\лысый маньяк\прога\WindowsFormsApp1\bin\Debug\System.Data.OleDb.dll
+E:\лысый маньяк\прога\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterForm.resources
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\лысый маньяк\прога\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
